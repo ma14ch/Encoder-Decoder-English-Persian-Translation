@@ -1,4 +1,3 @@
-Sure, here's a GitHub description for your English to Persian translation Encoder and Decoder:
 
 ---
 
